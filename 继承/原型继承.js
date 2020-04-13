@@ -4,3 +4,11 @@ function object(obj) {
     Super.prototype = obj
     return new Super()
 }
+
+function SuperType() {
+    this.property = true
+}
+function SubType() {
+    this.subproperty = false
+}
+SubType.prototype = new SuperType()

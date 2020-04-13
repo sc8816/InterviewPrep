@@ -25,8 +25,8 @@ function sort(arr, left, right) {
     if (arr.length <= 1) return arr
     let index = partition(arr, left, right)
     console.log(left, right, index);
-    if (left < index-1) {
-        sort(arr, left, index-1)
+    if (left < index - 1) {
+        sort(arr, left, index - 1)
     }
     if (right > index) {
         sort(arr, index, right)
@@ -54,5 +54,38 @@ function partition(arr, left, right) {
     return i
 }
 
+
 let array = [8, 7, 0, 7, 5, 2, 5, 3, 1];
 console.log(quickSort(array))
+
+function part(arr, left, right) {
+    let basic = (left+right)>>1
+    let start = left
+    let end = right
+
+    while (start<end){
+        while (arr[start]<arr[basic]){
+            start++
+        }
+        while (arr[right]>arr[basic]){
+            end--
+        }
+        if(start<=end){
+            [arr[start],arr[end]] = [arr[end],arr[start]]
+            start++
+            end--
+        }
+    }
+    return start
+}
+function sorts(arr,left,right) {
+    if(arr.length<=1) return arr
+    let index = part(arr, left, right)
+    if(index-1>left){
+        part(arr, left,index-1)
+    }
+    if(index<right){
+        part(arr, index, right)
+    }
+    return arr
+}

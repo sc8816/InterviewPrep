@@ -13,3 +13,12 @@ function call(ctx=window,...args) {
     delete ctx[fn]
     return result
 }
+
+function bind() {
+    let ctx = [].shift.call(arguments)
+    let self = this
+    let args = Array.from(arguments)
+    return function () {
+        self.call(ctx, ...args)
+    }
+}

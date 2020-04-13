@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc416836-3bbc-481e-ad89-03cd0417b608" name="Default Changelist" comment="" />
+    <list default="true" id="dc416836-3bbc-481e-ad89-03cd0417b608" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deepClone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js理解/词法作用域.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二分查找/findIndex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二分查找/light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二分查找/二分查找.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树遍历/中序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树遍历/先序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树遍历/后序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/全排列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/区间合并.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/继承/寄生组合式.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原生js方法的实现/apply.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生js方法的实现/apply.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序/quicksort.js" beforeDir="false" afterPath="$PROJECT_DIR$/排序/quicksort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/继承/原型继承.js" beforeDir="false" afterPath="$PROJECT_DIR$/继承/原型继承.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/继承/寄生组合继承.js" beforeDir="false" afterPath="$PROJECT_DIR$/继承/组合继承.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/继承/构造函数式.js" beforeDir="false" afterPath="$PROJECT_DIR$/继承/构造函数式.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +35,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z7CJqm0Nmafr6CgW9LefbGM10y" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,8 +47,9 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/wicrenet/secretgarden/secretgarden-h5-home" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -35,29 +59,29 @@
       <recent name="D:\asino\test\vue" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.queue.js">
-    <configuration name="浮点数相加判断相等.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/原生js方法的实现/浮点数相加判断相等.js" working-dir="$PROJECT_DIR$/原生js方法的实现">
+  <component name="RunManager" selected="Node.js.quicksort.js">
+    <configuration name="二分查找.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/二分查找/二分查找.js" working-dir="$PROJECT_DIR$/二分查找">
       <method v="2" />
     </configuration>
-    <configuration name="curryAdd.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/原生js方法的实现/curryAdd.js" working-dir="$PROJECT_DIR$">
+    <configuration name="全排列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/全排列.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="mergeSort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/排序/mergeSort.js" working-dir="$PROJECT_DIR$">
+    <configuration name="deepClone.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/deepClone.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="new.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/原生js方法的实现/new.js" working-dir="$PROJECT_DIR$">
+    <configuration name="flat.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/flat.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="queue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/原生js方法的实现/queue.js" working-dir="$PROJECT_DIR$/原生js方法的实现">
+    <configuration name="quicksort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/排序/quicksort.js" working-dir="$PROJECT_DIR$/排序">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.queue.js" />
-        <item itemvalue="Node.js.curryAdd.js" />
-        <item itemvalue="Node.js.mergeSort.js" />
-        <item itemvalue="Node.js.浮点数相加判断相等.js" />
-        <item itemvalue="Node.js.new.js" />
+        <item itemvalue="Node.js.quicksort.js" />
+        <item itemvalue="Node.js.flat.js" />
+        <item itemvalue="Node.js.deepClone.js" />
+        <item itemvalue="Node.js.全排列.js" />
+        <item itemvalue="Node.js.二分查找.js" />
       </list>
     </recent_temporary>
   </component>
@@ -79,6 +103,8 @@
       <workItem from="1585366618014" duration="8832000" />
       <workItem from="1585392160990" duration="26951000" />
       <workItem from="1585799601603" duration="10834000" />
+      <workItem from="1585910752819" duration="302000" />
+      <workItem from="1586307631184" duration="36759000" />
     </task>
     <servers />
   </component>
@@ -86,26 +112,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1584684056805">
+    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1586413391419">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584684056805" />
-    <state width="1894" height="298" key="GridCell.Tab.0.bottom" timestamp="1585805808983">
+    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586413391419" />
+    <state width="1894" height="153" key="GridCell.Tab.0.bottom" timestamp="1586763237550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585805808983" />
-    <state width="1894" height="298" key="GridCell.Tab.0.center" timestamp="1585805808983">
+    <state width="1894" height="153" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586763237550" />
+    <state width="1894" height="153" key="GridCell.Tab.0.center" timestamp="1586763237550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="298" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585805808983" />
-    <state width="1894" height="298" key="GridCell.Tab.0.left" timestamp="1585805808983">
+    <state width="1894" height="153" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586763237550" />
+    <state width="1894" height="153" key="GridCell.Tab.0.left" timestamp="1586763237550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="298" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585805808983" />
-    <state width="1894" height="298" key="GridCell.Tab.0.right" timestamp="1585805808983">
+    <state width="1894" height="153" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586763237550" />
+    <state width="1894" height="153" key="GridCell.Tab.0.right" timestamp="1586763237550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="298" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585805808983" />
+    <state width="1894" height="153" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586763237550" />
     <state width="1894" height="322" key="GridCell.Tab.1.bottom" timestamp="1585392148245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -154,6 +180,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1894" height="322" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585392148247" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1586567509347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1586567509347" />
     <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1585801640050">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
