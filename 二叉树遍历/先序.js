@@ -1,3 +1,4 @@
+//栈后进先出， 先右后左
 function preOrderTravel(root) {
     let res = []
     if(!root) return res

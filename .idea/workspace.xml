@@ -2,25 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc416836-3bbc-481e-ad89-03cd0417b608" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deepClone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js理解/词法作用域.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二分查找/findIndex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二分查找/light.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二分查找/二分查找.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树遍历/中序.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树遍历/先序.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树遍历/后序.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/全排列.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/区间合并.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/继承/寄生组合式.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/a标签失效.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/tes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/怎么把http请求换成https.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js理解/闭包.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/diff.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树遍历/Morris遍历.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/原生js方法的实现/apply.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生js方法的实现/apply.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序/quicksort.js" beforeDir="false" afterPath="$PROJECT_DIR$/排序/quicksort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/继承/原型继承.js" beforeDir="false" afterPath="$PROJECT_DIR$/继承/原型继承.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/继承/寄生组合继承.js" beforeDir="false" afterPath="$PROJECT_DIR$/继承/组合继承.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/继承/构造函数式.js" beforeDir="false" afterPath="$PROJECT_DIR$/继承/构造函数式.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/V2.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/V2.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二叉树遍历/中序.js" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树遍历/中序.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二叉树遍历/先序.js" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树遍历/先序.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二叉树遍历/后序.js" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树遍历/后序.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序/mergeSort.js" beforeDir="false" afterPath="$PROJECT_DIR$/排序/mergeSort.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +32,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1Z7CJqm0Nmafr6CgW9LefbGM10y" />
   <component name="ProjectViewState">
@@ -49,7 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/wicrenet/secretgarden/secretgarden-h5-home" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eicloud/webapp" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -59,11 +55,11 @@
       <recent name="D:\asino\test\vue" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.quicksort.js">
-    <configuration name="二分查找.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/二分查找/二分查找.js" working-dir="$PROJECT_DIR$/二分查找">
+  <component name="RunManager" selected="Node.js.闭包.js">
+    <configuration name="lottery.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/test/lottery.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="全排列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/全排列.js" working-dir="$PROJECT_DIR$">
+    <configuration name="闭包.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js理解/闭包.js" working-dir="$PROJECT_DIR$/js理解">
       <method v="2" />
     </configuration>
     <configuration name="deepClone.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/deepClone.js" working-dir="$PROJECT_DIR$">
@@ -77,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.闭包.js" />
+        <item itemvalue="JavaScript Debug.lottery.html" />
         <item itemvalue="Node.js.quicksort.js" />
         <item itemvalue="Node.js.flat.js" />
         <item itemvalue="Node.js.deepClone.js" />
-        <item itemvalue="Node.js.全排列.js" />
-        <item itemvalue="Node.js.二分查找.js" />
       </list>
     </recent_temporary>
   </component>
@@ -104,34 +100,57 @@
       <workItem from="1585392160990" duration="26951000" />
       <workItem from="1585799601603" duration="10834000" />
       <workItem from="1585910752819" duration="302000" />
-      <workItem from="1586307631184" duration="36759000" />
+      <workItem from="1586307631184" duration="40674000" />
+      <workItem from="1586937743934" duration="632000" />
+      <workItem from="1587001575160" duration="2439000" />
+      <workItem from="1589160610426" duration="4127000" />
+      <workItem from="1589420313973" duration="10607000" />
+      <workItem from="1589508529451" duration="1825000" />
+      <workItem from="1589600046345" duration="7713000" />
+      <workItem from="1589765725237" duration="1225000" />
     </task>
+    <task id="LOCAL-00001" summary="add some">
+      <created>1586772032151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586772032151</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add some" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1586413391419">
+    <state x="487" y="0" key="CommitChangelistDialog2" timestamp="1586772031376">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586413391419" />
-    <state width="1894" height="153" key="GridCell.Tab.0.bottom" timestamp="1586763237550">
+    <state x="487" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586772031376" />
+    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1589764314766">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="153" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586763237550" />
-    <state width="1894" height="153" key="GridCell.Tab.0.center" timestamp="1586763237550">
+    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589764314766" />
+    <state width="1894" height="153" key="GridCell.Tab.0.bottom" timestamp="1589449391617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="153" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586763237550" />
-    <state width="1894" height="153" key="GridCell.Tab.0.left" timestamp="1586763237550">
+    <state width="1894" height="153" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589449391617" />
+    <state width="1894" height="153" key="GridCell.Tab.0.center" timestamp="1589449391617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="153" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586763237550" />
-    <state width="1894" height="153" key="GridCell.Tab.0.right" timestamp="1586763237550">
+    <state width="1894" height="153" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589449391617" />
+    <state width="1894" height="153" key="GridCell.Tab.0.left" timestamp="1589449391617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="153" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586763237550" />
+    <state width="1894" height="153" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589449391617" />
+    <state width="1894" height="153" key="GridCell.Tab.0.right" timestamp="1589449391617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="153" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589449391617" />
     <state width="1894" height="322" key="GridCell.Tab.1.bottom" timestamp="1585392148245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -184,6 +203,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="623" height="498" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1586567509347" />
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1586772033333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586772033333" />
+    <state x="720" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589767633890">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="720" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589767633890" />
     <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1585801640050">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

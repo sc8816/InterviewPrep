@@ -52,3 +52,29 @@ data.name = 'sc';
 data.info = {sex: 'man'}
 data.info.sex = 'woman'
 console.log(data)
+
+//delete 原来的属性后，原先的重新给该属性进行赋值不会进行监听
+
+Object.defineProperty(a, 'b', {
+    get(){
+        console.log(a.b)
+    },
+    set(val){
+        console.log(a.b);
+    }
+})
+let a
+a.b =3
+delete a.b
+a.b = 4
+
+/*
+**为什么vue2.0不支持IE9以下
+ */
+/*
+ie9以下不支持ES5语法包括 Function.prototype.bind,
+数组：indexOf, forEach, map & filter
+对象： defineProperty, create & keys,
+字符串： trim()
+
+ */
