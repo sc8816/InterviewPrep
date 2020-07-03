@@ -6,7 +6,7 @@ function permutate(str) {
     let dfs = (s, vis, temp, res)=>{
         //截止条件
         if(temp.length===s.length){
-            res.push([...temp])
+            res.push(temp.join(''))
             return
         }
         //候选节点

@@ -23,6 +23,15 @@
 <body>
 <div>
     <span class="text">这是一段文字</span>
+    <input id=b type=file webkitdirectory>
 </div>
 </body>
+<script type="text/javascript" charset="UTF-8">
+
+    document.querySelector('#b').addEventListener('change', e => {
+        console.log(e)
+    });
+
+
+</script>
 </html>

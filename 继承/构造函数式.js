@@ -7,9 +7,9 @@ function SuperType(name) {
     }
 }
 function SubType() {
-    SubType.call(this,"sc")
+    SuperType.call(this, "sc")
     this.age = 23
 }
 let child = new SubType()
-// child.sayName()
+child.sayName()
 //缺点：方法都在构造函数中定义，函数无法得到复用
