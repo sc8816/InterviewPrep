@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc416836-3bbc-481e-ad89-03cd0417b608" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/z-index失效.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/defer和async.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/img标签srcset作用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/src 和 href.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/标签分类.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/dom.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原生js方法的实现/repeat.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/01背包.js" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/01背包.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原生js方法的实现/new.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生js方法的实现/new.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原生js方法的实现/queue.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生js方法的实现/queue.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
       <recent name="D:\asino\test\vue" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.[32]最长有效括号.js">
+  <component name="RunManager" selected="Node.js.repeat.js">
     <configuration name="lottery.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/test/lottery.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -68,16 +66,16 @@
     <configuration name="new.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/原生js方法的实现/new.js" working-dir="$PROJECT_DIR$/原生js方法的实现">
       <method v="2" />
     </configuration>
-    <configuration name="quicksort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/排序/quicksort.js" working-dir="$PROJECT_DIR$/排序">
+    <configuration name="repeat.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/原生js方法的实现/repeat.js" working-dir="$PROJECT_DIR$/原生js方法的实现">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.repeat.js" />
         <item itemvalue="Node.js.[32]最长有效括号.js" />
         <item itemvalue="Node.js.闭包.js" />
         <item itemvalue="Node.js.new.js" />
         <item itemvalue="JavaScript Debug.lottery.html" />
-        <item itemvalue="Node.js.quicksort.js" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +119,7 @@
       <workItem from="1596158368155" duration="7661000" />
       <workItem from="1609121976908" duration="106000" />
       <workItem from="1614579958157" duration="1376000" />
-      <workItem from="1621301239781" duration="15172000" />
+      <workItem from="1621301239781" duration="19177000" />
     </task>
     <task id="LOCAL-00001" summary="add some">
       <created>1586772032151</created>
@@ -144,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621318618401</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add file">
+      <created>1621387399581</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621387399581</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,25 +161,42 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add some" />
     <MESSAGE value="背包问题补充" />
-    <option name="LAST_COMMIT_MESSAGE" value="背包问题补充" />
+    <MESSAGE value="add file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="660" y="295" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621325348965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="295" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621325348965" />
-    <state x="487" y="0" key="CommitChangelistDialog2" timestamp="1621318617828">
+    <state x="487" y="0" key="CommitChangelistDialog2" timestamp="1621387430518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="487" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1621318617828" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1621318609188">
+    <state x="487" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1621387430518" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1621387382178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621318609188" />
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1621318620001">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621387382178" />
+    <state width="1865" height="153" key="GridCell.Tab.0.bottom" timestamp="1621392683756">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621318620001" />
+    <state width="1865" height="153" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621392683756" />
+    <state width="1865" height="153" key="GridCell.Tab.0.center" timestamp="1621392683756">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="153" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621392683756" />
+    <state width="1865" height="153" key="GridCell.Tab.0.left" timestamp="1621392683755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="153" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621392683755" />
+    <state width="1865" height="153" key="GridCell.Tab.0.right" timestamp="1621392683756">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="153" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621392683756" />
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1621387451302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621387451302" />
     <state x="532" y="237" key="run.anything.popup" timestamp="1621308957369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

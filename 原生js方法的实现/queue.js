@@ -15,7 +15,7 @@ function Queue() {
     this.start = function () {
         let d = 0
         this.callback.forEach(item=>{
-            d+=item.timer
+            d += item.timer
             setTimeout(item.fn,d)
         })
     }
