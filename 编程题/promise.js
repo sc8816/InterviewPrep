@@ -10,7 +10,7 @@ Promise.all = function (promises) {
                 if(res.length===len){
                     resolve(res)
                 }
-            },err=>reject(err))
+            }, err=>reject(err))
         }
     })
 }

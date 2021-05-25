@@ -9,11 +9,14 @@ function debounce(fn,time) {
 }
 function throttle(fn,delay) {
     let can = true
-    return function () {
-        can = false
-        setTimeout(()=>{
-            fn.apply(this,[...arguments])
-            can = true
-        },delay)
+    if(can){
+        return function () {
+            can = false
+            setTimeout(()=>{
+                // if()
+                fn.apply(this,[...arguments])
+                can = true
+            },delay)
+        }
     }
 }

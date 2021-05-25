@@ -1,6 +1,6 @@
-/*
-***常见dom操作
- */
+
+#####常见dom操作
+
 1. DOM 节点的获取
 - getElementById // 按照 id 查询
 - getElementsByTagName // 按照标签名查询

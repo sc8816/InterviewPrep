@@ -2,11 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc416836-3bbc-481e-ad89-03cd0417b608" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/html/dom.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/原生js方法的实现/repeat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bfc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/render.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/BFC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/DOMContentLoaded.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/无缝滚动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js理解/parseInt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js理解/promise中finally实现.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js理解/promise中race实现.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js理解/sort.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/最长连续字串.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原生js方法的实现/flat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序/bubbleSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/编程题/entry转换.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/编程题/lazyMan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/编程题/list树形转换.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/编程题/sleep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/编程题/字母大小写转换.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/编程题/移动0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/编程题/链条中所有的父级 id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/编程题/随机数组分类.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计模式/EventEmitter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计模式/Observer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计模式/单例模式.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/原生js方法的实现/new.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生js方法的实现/new.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/原生js方法的实现/queue.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生js方法的实现/queue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/defer和async.md" beforeDir="false" afterPath="$PROJECT_DIR$/html/defer和async.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/dom.md" beforeDir="false" afterPath="$PROJECT_DIR$/html/dom.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/V2.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/V2.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原生js方法的实现/curryAdd.js" beforeDir="false" afterPath="$PROJECT_DIR$/编程题/curryAdd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原生js方法的实现/dedounce.js" beforeDir="false" afterPath="$PROJECT_DIR$/编程题/dedounce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原生js方法的实现/promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/编程题/promise.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原生js方法的实现/浮点数相加判断相等.js" beforeDir="false" afterPath="$PROJECT_DIR$/编程题/浮点数相加判断相等.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,25 +63,30 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/intro.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/编程题" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\asino\test\编程题" />
+      <recent name="D:\asino\test\assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\asino\test\编程题" />
       <recent name="D:\asino\test\继承" />
       <recent name="D:\asino\test\原生js方法的实现" />
       <recent name="D:\asino\test\排序" />
       <recent name="D:\asino\test\vue" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.repeat.js">
-    <configuration name="lottery.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/test/lottery.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="Node.js.entry转换.js">
+    <configuration name="链条中所有的父级 id.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/编程题/链条中所有的父级 id.js" working-dir="$PROJECT_DIR$/编程题">
       <method v="2" />
     </configuration>
-    <configuration name="[32]最长有效括号.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="D:/leetcode/leetcode/editor/cn/[32]最长有效括号.js" working-dir="D:/leetcode/leetcode/editor/cn">
+    <configuration name="字母大小写转换.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/编程题/字母大小写转换.js" working-dir="$PROJECT_DIR$/编程题">
       <method v="2" />
     </configuration>
-    <configuration name="闭包.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js理解/闭包.js" working-dir="$PROJECT_DIR$/js理解">
+    <configuration name="随机数组分类.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/编程题/随机数组分类.js" working-dir="$PROJECT_DIR$/编程题">
       <method v="2" />
     </configuration>
     <configuration name="全排列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/全排列.js" working-dir="$PROJECT_DIR$">
@@ -63,19 +95,22 @@
     <configuration name="构造函数式.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/继承/构造函数式.js" working-dir="$PROJECT_DIR$/继承">
       <method v="2" />
     </configuration>
-    <configuration name="new.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/原生js方法的实现/new.js" working-dir="$PROJECT_DIR$/原生js方法的实现">
+    <configuration name="entry转换.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/编程题/entry转换.js" working-dir="$PROJECT_DIR$/编程题">
       <method v="2" />
     </configuration>
-    <configuration name="repeat.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/原生js方法的实现/repeat.js" working-dir="$PROJECT_DIR$/原生js方法的实现">
+    <configuration name="lazyMan.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/编程题/lazyMan.js" working-dir="$PROJECT_DIR$/原生js方法的实现">
+      <method v="2" />
+    </configuration>
+    <configuration name="list树形转换.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/编程题/list树形转换.js" working-dir="$PROJECT_DIR$/编程题">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.repeat.js" />
-        <item itemvalue="Node.js.[32]最长有效括号.js" />
-        <item itemvalue="Node.js.闭包.js" />
-        <item itemvalue="Node.js.new.js" />
-        <item itemvalue="JavaScript Debug.lottery.html" />
+        <item itemvalue="Node.js.entry转换.js" />
+        <item itemvalue="Node.js.链条中所有的父级 id.js" />
+        <item itemvalue="Node.js.list树形转换.js" />
+        <item itemvalue="Node.js.字母大小写转换.js" />
+        <item itemvalue="Node.js.lazyMan.js" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +154,8 @@
       <workItem from="1596158368155" duration="7661000" />
       <workItem from="1609121976908" duration="106000" />
       <workItem from="1614579958157" duration="1376000" />
-      <workItem from="1621301239781" duration="19177000" />
+      <workItem from="1621301239781" duration="70109000" />
+      <workItem from="1621906236874" duration="8291000" />
     </task>
     <task id="LOCAL-00001" summary="add some">
       <created>1586772032151</created>
@@ -149,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621387399581</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add file">
+      <created>1621395958022</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621395958022</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,34 +212,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="295" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621325348965" />
-    <state x="487" y="0" key="CommitChangelistDialog2" timestamp="1621387430518">
+    <state x="487" y="0" key="CommitChangelistDialog2" timestamp="1621395957331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="487" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1621387430518" />
+    <state x="487" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1621395957331" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1621387382178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621387382178" />
-    <state width="1865" height="153" key="GridCell.Tab.0.bottom" timestamp="1621392683756">
+    <state width="1865" height="153" key="GridCell.Tab.0.bottom" timestamp="1621932557839">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="153" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621392683756" />
-    <state width="1865" height="153" key="GridCell.Tab.0.center" timestamp="1621392683756">
+    <state width="1865" height="153" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621932557839" />
+    <state width="1865" height="153" key="GridCell.Tab.0.center" timestamp="1621932557839">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="153" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621392683756" />
-    <state width="1865" height="153" key="GridCell.Tab.0.left" timestamp="1621392683755">
+    <state width="1865" height="153" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621932557839" />
+    <state width="1865" height="153" key="GridCell.Tab.0.left" timestamp="1621932557839">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="153" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621392683755" />
-    <state width="1865" height="153" key="GridCell.Tab.0.right" timestamp="1621392683756">
+    <state width="1865" height="153" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621932557839" />
+    <state width="1865" height="153" key="GridCell.Tab.0.right" timestamp="1621932557839">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="153" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621392683756" />
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1621387451302">
+    <state width="1865" height="153" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621932557839" />
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1621395959783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621387451302" />
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621395959783" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1621839747882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621839747882" />
+    <state x="514" y="179" width="875" height="663" key="recent.locations.popup" timestamp="1621930720355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="514" y="179" width="875" height="663" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1621930720355" />
     <state x="532" y="237" key="run.anything.popup" timestamp="1621308957369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

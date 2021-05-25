@@ -1,3 +1,7 @@
+/*
+**缺点： 1、只能够劫持对象的属性，而非对象，需要遍历每个属性进行劫持（导致的结果是新增，删除对象的属性无法检测 a:{b:1}, 给新增a.c）
+*       2、无法监听数组的变化，需要对数组的方法进行重写
+ */
 //监听数组
 let ArrayProperty = Array.prototype;
 let arrObj = Object.create(ArrayProperty);
