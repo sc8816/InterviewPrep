@@ -11,7 +11,9 @@ function newObj() {
         return;
     }
     let obj = {}
-    obj.__proto__ = fn.prototype //
+    // obj.__proto__ = fn.prototype //不推荐直接使用——proto————
+    Object.setPrototypeOf(obj, fn.prototype)
+    // Object.create(fn.prototype)
     fn.apply(obj,[...arguments])
     return obj
 }
