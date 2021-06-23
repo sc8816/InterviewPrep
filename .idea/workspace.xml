@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc416836-3bbc-481e-ad89-03cd0417b608" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/webpack打包器demo/dist/bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack打包器demo/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack打包器demo/minipack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack打包器demo/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack打包器demo/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack打包器demo/src/entry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack打包器demo/src/hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack打包器demo/src/message.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack打包器demo/src/name.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二分查找/[875]爱吃香蕉的珂珂.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二分查找/在D天内送达包裹的能力.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/排序/heapSort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/Heap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/编程题/删除字符串中出现次数大于等于2的.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/编程题/翻转单词.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原生js方法的实现/instanceof.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原生js方法的实现/promise.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二分查找/二分查找.js" beforeDir="false" afterPath="$PROJECT_DIR$/二分查找/二分查找.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/原生js方法的实现/new.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生js方法的实现/new.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原生js方法的实现/apply.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生js方法的实现/apply.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +142,8 @@
       <workItem from="1622706187096" duration="15000" />
       <workItem from="1622778284236" duration="18819000" />
       <workItem from="1623403050851" duration="1385000" />
-      <workItem from="1623719745932" duration="9690000" />
+      <workItem from="1623719745932" duration="16208000" />
+      <workItem from="1624330945959" duration="11997000" />
     </task>
     <task id="LOCAL-00001" summary="add some">
       <created>1586772032151</created>
@@ -194,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621395958022</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add file">
+      <created>1623744370104</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623744370104</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,10 +216,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="295" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621325348965" />
-    <state x="487" y="0" key="CommitChangelistDialog2" timestamp="1621932645951">
+    <state x="487" y="0" key="CommitChangelistDialog2" timestamp="1623744369435">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="487" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1621932645951" />
+    <state x="487" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1623744369435" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1621387382178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -235,22 +228,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1622778314136" />
-    <state width="1865" height="216" key="GridCell.Tab.0.bottom" timestamp="1623744320814">
+    <state width="1865" height="216" key="GridCell.Tab.0.bottom" timestamp="1624267307197">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="216" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1623744320814" />
-    <state width="1865" height="216" key="GridCell.Tab.0.center" timestamp="1623744320814">
+    <state width="1865" height="216" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624267307197" />
+    <state width="1865" height="216" key="GridCell.Tab.0.center" timestamp="1624267307197">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="216" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1623744320814" />
-    <state width="1865" height="216" key="GridCell.Tab.0.left" timestamp="1623744320813">
+    <state width="1865" height="216" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624267307197" />
+    <state width="1865" height="216" key="GridCell.Tab.0.left" timestamp="1624267307197">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="216" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1623744320813" />
-    <state width="1865" height="216" key="GridCell.Tab.0.right" timestamp="1623744320814">
+    <state width="1865" height="216" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624267307197" />
+    <state width="1865" height="216" key="GridCell.Tab.0.right" timestamp="1624267307197">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="216" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1623744320814" />
+    <state width="1865" height="216" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624267307197" />
     <state width="1865" height="322" key="GridCell.Tab.1.bottom" timestamp="1623741182037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -303,10 +296,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1622778326804" />
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1621932648358">
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1623744372242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621932648358" />
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1623744372242" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1621839747882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

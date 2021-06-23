@@ -22,3 +22,14 @@ function bind() {
         self.call(ctx, ...args)
     }
 }
+
+Function.prototype.apply = function (ctx, args = []) {
+    ctx = ctx||window
+    let fn = `fn${Date.now()}`
+    ctx[fn] = this
+    let res = ctx[fn](args)
+    delete ctx[fn]
+    return res
+}
+
+
