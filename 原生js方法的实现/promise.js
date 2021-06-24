@@ -23,7 +23,7 @@ let resolvePromise = (promise2, x, resolve, reject) => {
         } catch (e) {
             if (called) return
             called = true
-            reject(x)
+            reject(e)
         }
     } else {
         resolve(x)
@@ -65,7 +65,7 @@ class Promise {
         // onFulfilled如果不是函数，就忽略onFulfilled，直接返回value
         onFulfilled = typeof onFulfilled === 'function' ? onFulfilled : value => value
         // onRejected如果不是函数，就忽略onRejected，直接扔出错误
-        onRejected = typeof onRejected === 'function' ? onRejected : err => throw err
+        onRejected = typeof onRejected === 'function' ? onRejected : err => { throw err }
         let promise2 = new Promise((resolve, reject) => {
             if (this.state === 'fulfilled') {
                 setTimeout(() => {
@@ -157,3 +157,12 @@ Promise.all = function (promises) {
         }
     })
 }
+Promise.defer = Promise.deferred = function () {
+    let dfd = {}
+    dfd.promise = new Promise((resolve,reject)=>{
+        dfd.resolve = resolve;
+        dfd.reject = reject;
+    });
+    return dfd;
+}
+module.exports = Promise;

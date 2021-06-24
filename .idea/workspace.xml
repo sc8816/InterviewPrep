@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc416836-3bbc-481e-ad89-03cd0417b608" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/原生js方法的实现/instanceof.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/原生js方法的实现/promise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js理解/object.seal &amp; object.freeze.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/原生js方法的实现/apply.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生js方法的实现/apply.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原生js方法的实现/promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生js方法的实现/promise.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +142,7 @@
       <workItem from="1622778284236" duration="18819000" />
       <workItem from="1623403050851" duration="1385000" />
       <workItem from="1623719745932" duration="16208000" />
-      <workItem from="1624330945959" duration="11997000" />
+      <workItem from="1624330945959" duration="24456000" />
     </task>
     <task id="LOCAL-00001" summary="add some">
       <created>1586772032151</created>
@@ -187,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623744370104</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="promise 实现">
+      <created>1624440889895</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624440889895</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,17 +215,18 @@
     <MESSAGE value="add some" />
     <MESSAGE value="背包问题补充" />
     <MESSAGE value="add file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add file" />
+    <MESSAGE value="promise 实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="promise 实现" />
   </component>
   <component name="WindowStateProjectService">
     <state x="660" y="295" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621325348965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="295" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621325348965" />
-    <state x="487" y="0" key="CommitChangelistDialog2" timestamp="1623744369435">
+    <state x="487" y="0" key="CommitChangelistDialog2" timestamp="1624440889173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="487" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1623744369435" />
+    <state x="487" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624440889173" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1621387382178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -296,10 +303,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1622778326804" />
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1623744372242">
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1624440891223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1623744372242" />
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624440891223" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1621839747882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
