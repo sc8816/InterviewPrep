@@ -25,7 +25,7 @@ function step() {
         })
         .then(()=>{return light(2000,green)})
         .then(()=>{return light(1000,yellow)})
-        .finally(()=>{step()})
+        .then(()=>{step()})
 
 }
 step()

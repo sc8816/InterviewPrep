@@ -33,3 +33,10 @@ Function.prototype.apply = function (ctx, args = []) {
 }
 
 
+function bind(ctx=window, ...args) {
+    let self = this
+    return function () {
+        self.apply(ctx, args)
+    }
+}
+
