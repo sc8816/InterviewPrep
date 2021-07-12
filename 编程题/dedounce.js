@@ -4,9 +4,11 @@ function debounce(fn,time) {
         timer&&clearTimeout(timer)
         timer = setTimeout(()=>{
             fn.call(this, ...arguments)
+
         },time)
     }
 }
+
 function throttle(fn,delay) {
     let can = true
     if(can){

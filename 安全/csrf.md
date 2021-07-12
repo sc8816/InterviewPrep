@@ -1,5 +1,7 @@
 CSRF:“跨站请求伪造”, CSRF 攻击就是黑客引诱用户打开黑客的网站，利用用户的登陆状态发起跨站请求。
-
+```html
+<img src="https://www.example.com/index.php?action=delete&id=123">
+```
 实现：
 最容易实现的是 Get 请求，一般进入黑客网站后，可以通过设置 img的 src 属性来自动发起请求
 在黑客的网站中，构造隐藏表单来自动发起 Post 请求
