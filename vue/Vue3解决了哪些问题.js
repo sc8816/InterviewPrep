@@ -12,6 +12,6 @@ typescript的支持，原先的在vue组件中的this指向都是当前的vue实
 
 四：JSX支持
 1.允许我们在js中写html，相比于以前的render函数更加清楚显示dom层级关系，写法上也是和template相似，更傾向函数是编程，函数组件的支持
-
+写法上自由，对动态的要求更加高，template（静态分析）性能高于jsx，
 
  */

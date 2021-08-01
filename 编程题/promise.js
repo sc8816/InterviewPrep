@@ -14,3 +14,4 @@ Promise.all = function (promises) {
         }
     })
 }
+

@@ -17,7 +17,7 @@ function createReactive(target) {
         return target
     }
     // 如果已经代理过，直接返回代理对象
-    if(toProxy.get(target)){
+    if(toProxy.get(target)) {
         return toProxy.get(target)
     }
     //传入的是代理对象直接返回
