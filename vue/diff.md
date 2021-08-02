@@ -9,7 +9,7 @@
 
 
 1. 我们在数据进行更新的时候，会走object.definePrototy的setter触发dep.notify通知观察者进行更新，数据更新的话会走render生成新的 VNode 这时候会调用patch（vNode， oldNode）比较
-2. 先判断是不是相同的节点，不同直接老节点被新节点替换， 相同这个时候我们需要调用patchNode
+2. 先判断是不是相同的节点(比较key, 标签，以及元素上面的属性，如果是input还判断了type)，不同直接老节点被新节点替换， 相同这个时候我们需要调用patchNode
 3. patchNode做了以下操作
    1. 找到对应的真实节点，判断是不是指向同一个对象，是的话直接return
    2. 如果都有文本节点，不相等直接进行替换

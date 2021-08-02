@@ -1,5 +1,23 @@
 function deepClone(data) {
     if(!isArrary(data) && !isObject(data)) return data
+    //日期格式
+    if(isDate(data)) {
+        let time = data.getTime()
+        return new Date().setTime(time)
+    }
+    //正则表达式
+    if(isReg(data)) {
+        const {source, flags} = data
+        return new RegExp(source, flags)
+    }
+    //function
+    if(isFunc(data)) {
+        let funcString = data.toString()
+        let clone = eval(`(()=>{${funcString})()`)
+        clone.prototype = data.prototype
+        return clone
+    }
+    //对象和数组
     let cloneObj = isObject(data) ? {} :[]
     if(isArrary(data)){
         for(let i of data){
@@ -13,6 +31,15 @@ function deepClone(data) {
         }
     }
     return cloneObj
+}
+function isDate(date) {
+    return date instanceof Date
+}
+function isFunc(data) {
+    return Object.prototype.toString.call(data) === '[object Function]'
+}
+function isReg(data) {
+    return data instanceof RegExp
 }
 function isArrary(arr) {
     return Array.isArray(arr)
