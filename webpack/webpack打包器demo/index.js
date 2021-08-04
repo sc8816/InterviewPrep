@@ -7,6 +7,14 @@ const traverse = require('@babel/traverse').default
 const entry = config.entry
 const output = config.output
 
+// 1.获取入口文件的内容
+// 2.使用babel/parser插件将代码转换成ast
+// 3.使用babel/core里面的transformFromAst方法将我们得到的ast转换成ES5语法
+// 4.使用babel/traverse获取到所有的依赖模块
+// 5.对我们的依赖模块重复之前的步骤，进行一个递归操作找到所有的依赖模块，生成一个图
+// 6.根据图的数据我们进行重写require方法，通过字符串拼接自执行的方式生成一个bundle文件
+
+
 /**
  * 解析文件内容及其依赖，
  * 期望返回：
