@@ -17,6 +17,22 @@ function deepClone(data) {
         clone.prototype = data.prototype
         return clone
     }
+    // map
+    if(isMap(data)) {
+        let result = new Map()
+        data.forEach((val, key) => {
+            result.set(key, deepClone(val))
+        })
+        return result
+    }
+    //set
+    if(isSet(data)) {
+        let result = new Set()
+        data.forEach((val) => {
+            set.add(deepClone(val))
+        })
+        return result
+    }
     //对象和数组
     let cloneObj = isObject(data) ? {} :[]
     if(isArrary(data)){
@@ -34,6 +50,12 @@ function deepClone(data) {
 }
 function isDate(date) {
     return date instanceof Date
+}
+function isMap(data) {
+    return data instanceof Map
+}
+function isSet(data) {
+    return data instanceof Set
 }
 function isFunc(data) {
     return Object.prototype.toString.call(data) === '[object Function]'

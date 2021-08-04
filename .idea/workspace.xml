@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc416836-3bbc-481e-ad89-03cd0417b608" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/算法/二分查找/有效三角形的个数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/双指针/三数之和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/双指针/有效三角形的个数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/最短路径（迪杰斯特拉、弗洛伊德）/网络延迟时间.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack/webpack打包器demo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack/webpack打包器demo/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二分查找/[875]爱吃香蕉的珂珂.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/二分查找/[875]爱吃香蕉的珂珂.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二分查找/findIndex.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/二分查找/findIndex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二分查找/light.js" beforeDir="false" afterPath="$PROJECT_DIR$/编程题/light.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二分查找/二分查找.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/二分查找/二分查找.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二分查找/在D天内送达包裹的能力.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/二分查找/在D天内送达包裹的能力.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二分查找/斐波那契数列.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/二叉树遍历/Morris遍历.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/二叉树/二叉树遍历/Morris遍历.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二叉树遍历/中序.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/二叉树/二叉树遍历/中序.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二叉树遍历/先序.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/二叉树/二叉树遍历/先序.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二叉树遍历/后序.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/二叉树/二叉树遍历/后序.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/01背包.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/动态规划/01背包.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/二维数组dp.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/动态规划/二维数组dp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/区间dp.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/动态规划/区间dp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/多重背包.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/动态规划/多重背包.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/完全背包.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/动态规划/完全背包.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/最长连续字串.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/动态规划/最长连续字串.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序/bubbleSort.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/排序/bubbleSort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序/heapSort.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/排序/heapSort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序/mergeSort.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/排序/mergeSort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序/quicksort.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/排序/quicksort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/编程题/旋转数组.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/二分查找/旋转数组.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deepClone.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生js方法的实现/deepClone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flat.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,17 +51,14 @@
       <recent name="D:\asino\test\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\asino\test\原生js方法的实现" />
       <recent name="D:\asino\test\算法\二分查找" />
       <recent name="D:\asino\test\算法\二叉树" />
       <recent name="D:\asino\test\算法" />
       <recent name="D:\asino\test\编程题" />
-      <recent name="D:\asino\test\继承" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.flat.js">
-    <configuration name="观察者模式.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/设计模式/观察者模式.js" working-dir="$PROJECT_DIR$/设计模式">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.bubbleSort.js">
     <configuration name="词法作用域.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js理解/词法作用域.js" working-dir="$PROJECT_DIR$/js理解">
       <method v="2" />
     </configuration>
@@ -96,6 +69,9 @@
       <method v="2" />
     </configuration>
     <configuration name="构造函数式.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/继承/构造函数式.js" working-dir="$PROJECT_DIR$/继承">
+      <method v="2" />
+    </configuration>
+    <configuration name="bubbleSort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/排序/bubbleSort.js" working-dir="$PROJECT_DIR$/算法/排序">
       <method v="2" />
     </configuration>
     <configuration name="flat.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/原生js方法的实现/flat.js" working-dir="$PROJECT_DIR$/原生js方法的实现">
@@ -112,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.bubbleSort.js" />
         <item itemvalue="Node.js.flat.js" />
         <item itemvalue="Node.js.top K.js" />
         <item itemvalue="Node.js.mergeSort.js" />
         <item itemvalue="Node.js.light.js" />
-        <item itemvalue="Node.js.观察者模式.js" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +150,7 @@
       <workItem from="1626319505043" duration="8668000" />
       <workItem from="1626660006521" duration="597000" />
       <workItem from="1626677063629" duration="13570000" />
-      <workItem from="1627364890736" duration="34353000" />
+      <workItem from="1627364890736" duration="36748000" />
     </task>
     <task id="LOCAL-00001" summary="add some">
       <created>1586772032151</created>
@@ -295,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627980510144</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="file change">
+      <created>1628063171868</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1628063171868</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,10 +309,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="295" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1626252747168" />
-    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1627980509487">
+    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1628063171035">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1627980509487" />
+    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1628063171035" />
     <state x="226" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1626343186043" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1621387382178">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -339,21 +322,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1622778314136" />
-    <state width="1865" height="216" key="GridCell.Tab.0.bottom" timestamp="1625645067538">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1545" height="165" key="GridCell.Tab.0.bottom" timestamp="1628065917448">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1545" height="165" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1628065917448" />
     <state width="1865" height="216" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625645067538" />
-    <state width="1865" height="216" key="GridCell.Tab.0.center" timestamp="1625645067538">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1545" height="165" key="GridCell.Tab.0.center" timestamp="1628065917448">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1545" height="165" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1628065917448" />
     <state width="1865" height="216" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625645067538" />
-    <state width="1865" height="216" key="GridCell.Tab.0.left" timestamp="1625645067538">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1545" height="165" key="GridCell.Tab.0.left" timestamp="1628065917448">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1545" height="165" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1628065917448" />
     <state width="1865" height="216" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625645067538" />
-    <state width="1865" height="216" key="GridCell.Tab.0.right" timestamp="1625645067538">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1545" height="165" key="GridCell.Tab.0.right" timestamp="1628065917448">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1545" height="165" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1628065917448" />
     <state width="1865" height="216" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625645067538" />
     <state width="1865" height="322" key="GridCell.Tab.1.bottom" timestamp="1623741182037">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -407,10 +394,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625105326362" />
-    <state x="377" y="151" key="Vcs.Push.Dialog.v2" timestamp="1627980511814">
+    <state x="377" y="151" key="Vcs.Push.Dialog.v2" timestamp="1628063172987">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="377" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1627980511814" />
+    <state x="377" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1628063172987" />
     <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1626343188420" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1621839747882">
       <screen x="0" y="0" width="1920" height="1040" />
