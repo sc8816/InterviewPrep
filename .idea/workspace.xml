@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc416836-3bbc-481e-ad89-03cd0417b608" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/拓扑.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/BFC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/拓扑排序/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/拓扑排序/leetcode 802找打最终的安全状态.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deepClone.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生js方法的实现/deepClone.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/float.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/float.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inline.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/inline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lottery.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/lottery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/margin.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/margin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/square.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/square.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/全排列.js" beforeDir="false" afterPath="$PROJECT_DIR$/编程题/全排列.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/区间合并.js" beforeDir="false" afterPath="$PROJECT_DIR$/编程题/区间合并.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +60,17 @@
       <recent name="D:\asino\test\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\asino\test\html" />
+      <recent name="D:\asino\test\编程题" />
       <recent name="D:\asino\test\原生js方法的实现" />
       <recent name="D:\asino\test\算法\二分查找" />
       <recent name="D:\asino\test\算法\二叉树" />
-      <recent name="D:\asino\test\算法" />
-      <recent name="D:\asino\test\编程题" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.bubbleSort.js">
+  <component name="RunManager" selected="JavaScript Debug.square.html">
+    <configuration name="square.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/test/html/square.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="词法作用域.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js理解/词法作用域.js" working-dir="$PROJECT_DIR$/js理解">
       <method v="2" />
     </configuration>
@@ -77,9 +89,6 @@
     <configuration name="flat.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/原生js方法的实现/flat.js" working-dir="$PROJECT_DIR$/原生js方法的实现">
       <method v="2" />
     </configuration>
-    <configuration name="light.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/编程题/light.js" working-dir="$PROJECT_DIR$/算法/二分查找">
-      <method v="2" />
-    </configuration>
     <configuration name="mergeSort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/排序/mergeSort.js" working-dir="$PROJECT_DIR$/算法/排序">
       <method v="2" />
     </configuration>
@@ -88,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.square.html" />
         <item itemvalue="Node.js.bubbleSort.js" />
         <item itemvalue="Node.js.flat.js" />
         <item itemvalue="Node.js.top K.js" />
         <item itemvalue="Node.js.mergeSort.js" />
-        <item itemvalue="Node.js.light.js" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +159,7 @@
       <workItem from="1626319505043" duration="8668000" />
       <workItem from="1626660006521" duration="597000" />
       <workItem from="1626677063629" duration="13570000" />
-      <workItem from="1627364890736" duration="36748000" />
+      <workItem from="1627364890736" duration="43553000" />
     </task>
     <task id="LOCAL-00001" summary="add some">
       <created>1586772032151</created>
@@ -278,7 +287,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628063171868</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="file change">
+      <created>1628067189958</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1628067189958</updated>
+    </task>
+    <task id="LOCAL-00020" summary="file change">
+      <created>1628067284303</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1628067284303</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,10 +332,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="295" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1626252747168" />
-    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1628067189225">
+    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1628067283621">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1628067189225" />
+    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1628067283621" />
     <state x="226" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1626343186043" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1621387382178">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -394,10 +417,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625105326362" />
-    <state x="377" y="151" key="Vcs.Push.Dialog.v2" timestamp="1628067191583">
+    <state x="377" y="151" key="Vcs.Push.Dialog.v2" timestamp="1628067285983">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="377" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1628067191583" />
+    <state x="377" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1628067285983" />
     <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1626343188420" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1621839747882">
       <screen x="0" y="0" width="1920" height="1040" />
