@@ -22,24 +22,3 @@ function countones(n) {
         return countones(pow - 1) * head + countones(rest) + pow
     }
 }
-
-function throttle(fn, time) {
-    let can = true
-    if (can) return function () {
-        can = false
-        setTimeout(() => {
-            fn.call(this, ...arguments)
-            can = true
-        }, time)
-    }
-}
-
-function debounce(fn, delay) {
-    var timer = null
-    return function () {
-        timer && clearTimeout(timer)
-        timer = setTimeout(() => {
-            fn.call(this, arguments)
-        }, delay)
-    }
-}
