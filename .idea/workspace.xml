@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc416836-3bbc-481e-ad89-03cd0417b608" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/算法/KMP/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/位运算/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/分治/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/动态规划/压状dp/访问所有结点的最短路径.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/单调栈/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/单调队列/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/图/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/图/访问所有结点的最短路径.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/堆/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/并查集/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/广度优先bfs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/摩尔投票/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/深度优先dfs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/滑动窗口/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/状态压缩/访问所有结点的最短路径.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/贪心算法/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/链表/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/马拉车算法（Manacher）/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/编程题/去除空格正则.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/动态规划/序列问题/[413]等差数列划分.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/动态规划/序列问题/[446]等差数列划分 II - 子序列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/动态规划/序列问题/序列dp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/字典树/前缀树实现.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/原生js方法的实现/解析url.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生js方法的实现/解析url.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/编程题/1-n中1出现的次数.js" beforeDir="false" afterPath="$PROJECT_DIR$/编程题/1-n中1出现的次数.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,25 +40,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/算法/动态规划/压状dp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/算法/动态规划/序列问题" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
     <property name="ts.external.directory.path" value="D:\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\asino\test\算法\动态规划\序列问题" />
+      <recent name="D:\asino\test\算法\动态规划" />
       <recent name="D:\asino\test\算法\动态规划\压状dp" />
       <recent name="D:\asino\test\算法\状态压缩" />
       <recent name="D:\asino\test\算法\马拉车算法（Manacher）" />
-      <recent name="D:\asino\test\算法\链表" />
-      <recent name="D:\asino\test\算法\贪心算法" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\asino\test\算法\动态规划\序列问题" />
       <recent name="D:\asino\test\html" />
       <recent name="D:\asino\test\编程题" />
       <recent name="D:\asino\test\原生js方法的实现" />
       <recent name="D:\asino\test\算法\二分查找" />
-      <recent name="D:\asino\test\算法\二叉树" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.square.html">
@@ -170,7 +153,7 @@
       <workItem from="1626319505043" duration="8668000" />
       <workItem from="1626660006521" duration="597000" />
       <workItem from="1626677063629" duration="13570000" />
-      <workItem from="1627364890736" duration="52476000" />
+      <workItem from="1627364890736" duration="61707000" />
     </task>
     <task id="LOCAL-00001" summary="add some">
       <created>1586772032151</created>
@@ -319,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628147954178</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="file change">
+      <created>1628470568529</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1628470568530</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,10 +340,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="295" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1626252747168" />
-    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1628147953138">
+    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1628470552399">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1628147953138" />
+    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1628470552399" />
     <state x="226" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1626343186043" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1621387382178">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -431,14 +421,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="322" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1623741182037" />
-    <state x="345" y="78" key="SettingsEditor" timestamp="1625105326362">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625105326362" />
-    <state x="377" y="151" key="Vcs.Push.Dialog.v2" timestamp="1628147956257">
+    <state x="288" y="0" key="SettingsEditor" timestamp="1628579932842">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="377" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1628147956257" />
+    <state x="288" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1628579932842" />
+    <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625105326362" />
+    <state x="377" y="151" key="Vcs.Push.Dialog.v2" timestamp="1628470652497">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="377" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1628470652497" />
     <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1626343188420" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1621839747882">
       <screen x="0" y="0" width="1920" height="1040" />
