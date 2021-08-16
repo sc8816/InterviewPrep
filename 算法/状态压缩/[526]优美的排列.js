@@ -50,8 +50,11 @@ var countArrangement = function (n) {
     for (let mask = 1; mask < (1 << n); mask++) {
         let num = countOnes(mask)
         for (let i = 0; i < n; i++) {
+            //用来判断 mask 第 i 位是否为 1，如果为 1，说明第 i+1 (因为从0开始)个数字被选取
             if (mask & (1 << i) === 0) continue
             if (num % (i + 1) !== 0 && (i + 1) % num !== 0) continue
+            // 1^0 = 1 、 0^0 = 0 、1^1 = 0 异或相同值为0 不同为1
+            // mask ^ (1 << i)则是把第i位 置于 0
             dp[mask] += dp[mask ^ (1 << i)]
         }
     }
