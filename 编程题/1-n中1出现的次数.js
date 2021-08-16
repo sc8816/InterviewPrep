@@ -14,7 +14,7 @@ function countones(n) {
     let str = String(n)
     let head = str.slice(0, 1)
     let pow = 10 ** (str.length - 1)
-    let rest = str.slice(1)
+    let rest = str.slice(1) - '0'
 
     if (head == 1) {
         return countones(pow - 1) + countones(rest) + rest + 1
@@ -22,3 +22,4 @@ function countones(n) {
         return countones(pow - 1) * head + countones(rest) + pow
     }
 }
+console.log(countones(14))

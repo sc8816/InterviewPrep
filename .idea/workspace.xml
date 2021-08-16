@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc416836-3bbc-481e-ad89-03cd0417b608" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/算法/动态规划/序列问题/[413]等差数列划分.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/动态规划/序列问题/[446]等差数列划分 II - 子序列.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/动态规划/序列问题/序列dp.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/字典树/前缀树实现.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/域名收敛 &amp; 域名发散.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/动态规划/序列问题/[516]最长回文子序列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/排序/桶排序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/排序/计数排序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/排序/选择排序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/深度优先dfs/[516]最长回文子序列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/递归/1-n中1出现的次数.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/编程题/1-n中1出现的次数.js" beforeDir="false" afterPath="$PROJECT_DIR$/编程题/1-n中1出现的次数.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,19 +44,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/算法/动态规划/序列问题" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/算法/递归" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
     <property name="ts.external.directory.path" value="D:\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\asino\test\算法\动态规划\序列问题" />
-      <recent name="D:\asino\test\算法\动态规划" />
-      <recent name="D:\asino\test\算法\动态规划\压状dp" />
-      <recent name="D:\asino\test\算法\状态压缩" />
-      <recent name="D:\asino\test\算法\马拉车算法（Manacher）" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\asino\test\算法\动态规划\序列问题" />
       <recent name="D:\asino\test\html" />
@@ -60,12 +57,19 @@
       <recent name="D:\asino\test\原生js方法的实现" />
       <recent name="D:\asino\test\算法\二分查找" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\asino\test\算法\递归" />
+      <recent name="D:\asino\test\算法\深度优先dfs" />
+      <recent name="D:\asino\test\算法\动态规划\序列问题" />
+      <recent name="D:\asino\test\算法\动态规划" />
+      <recent name="D:\asino\test\算法\动态规划\压状dp" />
+    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.square.html">
+  <component name="RunManager" selected="Node.js.1-n中1出现的次数.js">
     <configuration name="square.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/test/html/square.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="词法作用域.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js理解/词法作用域.js" working-dir="$PROJECT_DIR$/js理解">
+    <configuration name="1-n中1出现的次数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/编程题/1-n中1出现的次数.js" working-dir="$PROJECT_DIR$/编程题">
       <method v="2" />
     </configuration>
     <configuration name="随机数组分类.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/编程题/随机数组分类.js" working-dir="$PROJECT_DIR$/编程题">
@@ -83,19 +87,16 @@
     <configuration name="flat.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/原生js方法的实现/flat.js" working-dir="$PROJECT_DIR$/原生js方法的实现">
       <method v="2" />
     </configuration>
-    <configuration name="mergeSort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/排序/mergeSort.js" working-dir="$PROJECT_DIR$/算法/排序">
-      <method v="2" />
-    </configuration>
     <configuration name="top K.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/编程题/top K.js" working-dir="$PROJECT_DIR$/编程题">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.1-n中1出现的次数.js" />
         <item itemvalue="JavaScript Debug.square.html" />
         <item itemvalue="Node.js.bubbleSort.js" />
         <item itemvalue="Node.js.flat.js" />
         <item itemvalue="Node.js.top K.js" />
-        <item itemvalue="Node.js.mergeSort.js" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +154,8 @@
       <workItem from="1626319505043" duration="8668000" />
       <workItem from="1626660006521" duration="597000" />
       <workItem from="1626677063629" duration="13570000" />
-      <workItem from="1627364890736" duration="61707000" />
+      <workItem from="1627364890736" duration="66438000" />
+      <workItem from="1628816850182" duration="4780000" />
     </task>
     <task id="LOCAL-00001" summary="add some">
       <created>1586772032151</created>
@@ -309,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628470568530</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="file change">
+      <created>1628662278090</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1628662278090</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,10 +349,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="295" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1626252747168" />
-    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1628470552399">
+    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1628662277053">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1628470552399" />
+    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1628662277053" />
     <state x="226" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1626343186043" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1621387382178">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -426,10 +435,10 @@
     </state>
     <state x="288" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1628579932842" />
     <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625105326362" />
-    <state x="377" y="151" key="Vcs.Push.Dialog.v2" timestamp="1628470652497">
+    <state x="377" y="151" key="Vcs.Push.Dialog.v2" timestamp="1628662280204">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="377" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1628470652497" />
+    <state x="377" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1628662280204" />
     <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1626343188420" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1621839747882">
       <screen x="0" y="0" width="1920" height="1040" />
