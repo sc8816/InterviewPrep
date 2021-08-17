@@ -111,7 +111,7 @@ class LinkList {
         while (cur) {
             let next = cur.next;
             next = next ? next.element : 'null';
-            str += `[element: ${cur.element}, next: ${next}]`
+            str += `{element: ${cur.element}, next: ${next}}`
             cur = cur.next
         }
 

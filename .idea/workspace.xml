@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc416836-3bbc-481e-ad89-03cd0417b608" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/链表.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/链表数组对比.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/动态规划/5个数字组成2021.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/链表/LinkList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/双向循环链表.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/双向链表.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/循环链表.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/链表/双向链表/双向链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/链表/循环链表/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法/链表/LinkList.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/链表/单链表/LinkList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/算法/链表/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/算法/链表/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,11 +50,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\asino\test\算法\链表\单链表" />
       <recent name="D:\asino\test\算法\动态规划\序列问题" />
       <recent name="D:\asino\test\html" />
       <recent name="D:\asino\test\编程题" />
       <recent name="D:\asino\test\原生js方法的实现" />
-      <recent name="D:\asino\test\算法\二分查找" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\asino\test\assets" />
@@ -152,7 +154,7 @@
       <workItem from="1626660006521" duration="597000" />
       <workItem from="1626677063629" duration="13570000" />
       <workItem from="1627364890736" duration="66438000" />
-      <workItem from="1628816850182" duration="20865000" />
+      <workItem from="1628816850182" duration="24358000" />
     </task>
     <task id="LOCAL-00001" summary="add some">
       <created>1586772032151</created>
@@ -371,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629107359209</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="链表">
+      <created>1629182976578</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1629182976578</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,17 +404,18 @@
     <MESSAGE value="add file" />
     <MESSAGE value="promise 实现" />
     <MESSAGE value="file change" />
-    <option name="LAST_COMMIT_MESSAGE" value="file change" />
+    <MESSAGE value="链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="链表" />
   </component>
   <component name="WindowStateProjectService">
     <state x="660" y="295" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626252747168">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="295" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1626252747168" />
-    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1629107358515">
+    <state x="188" y="0" key="CommitChangelistDialog2" timestamp="1629182975790">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1629107358515" />
+    <state x="188" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1629182975790" />
     <state x="226" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1626343186043" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1621387382178">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -488,10 +498,10 @@
     </state>
     <state x="288" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1628579932842" />
     <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625105326362" />
-    <state x="377" y="151" key="Vcs.Push.Dialog.v2" timestamp="1629107360576">
+    <state x="377" y="151" key="Vcs.Push.Dialog.v2" timestamp="1629182977878">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="377" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1629107360576" />
+    <state x="377" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1629182977878" />
     <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1626343188420" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1621839747882">
       <screen x="0" y="0" width="1920" height="1040" />
